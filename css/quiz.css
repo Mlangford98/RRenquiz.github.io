@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: blue;
+	background-color: #70b9ff;
 	max-width: 100%;
 }
 div {
@@ -22,3 +22,14 @@ h1 {
 	padding: 0px;
 	font-family: 'Courgette', cursive;
 }
+ul li {
+	float: left;
+	list-style-type: none;
+	padding-left: 210px;
+	}
+
+ul li a:hover {
+	color: black;
+	font-weight: bold;
+
+}	
